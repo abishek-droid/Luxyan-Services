@@ -1,0 +1,7 @@
+{
+  "name": "Luxyan Services Automation System",
+  "description": "The central AI brain for Luxyan Services' complete business automation platform, managing all operations across NSW for different user roles like Admin, Supervisor, Cleaner, and Client.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
